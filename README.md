@@ -8,6 +8,6 @@ This is the first challenge project for the UofU bootcamp.  In html you will fin
 
 Every moment is something new.  In this exercise I focused on fixing broken links and replacing divs in the html with semantic HTML elements like section and article.  Then I focused on cleaning up the CSS by organizing and consolidating repetitive coding.
 
- ![](docs/assets/images/HoriseonPreview.jpg) 
+<img src="docs/assets/images/HoriseonPreview.JPG" alt="Brief snip of the full webpage">
 
 https://johnknee3.github.io/HoriseonChallenge/
